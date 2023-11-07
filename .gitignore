@@ -8,4 +8,5 @@ bin/gInk.exe
 *.suo
 *.opensdf
 *.lnk
+.vs/
 *vshost.exe*
